@@ -1,0 +1,3 @@
+IT2249 6 Introduction to Programming with Java
+IT2230 3 Introduction to Database Systems
+IT4789 3 Mobile Cloud Computing Application Development
